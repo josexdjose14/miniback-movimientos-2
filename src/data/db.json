@@ -1,0 +1,34 @@
+{
+  "movimientos": [
+    {
+      "id": 1,
+      "description": "Sueldo",
+      "price": 1200000,
+      "type": "ingreso"
+    },
+    {
+      "id": 2,
+      "description": "Pago de la luz",
+      "price": 500000,
+      "type": "gasto"
+    },
+    {
+      "id": 3,
+      "description": "Salidas con amigos",
+      "price": 50000,
+      "type": "gasto"
+    },
+    {
+      "id": 4,
+      "description": "Comida rapida semanal",
+      "price": 100000,
+      "type": "gasto"
+    },
+    {
+      "id": 5,
+      "description": "Gasto en juegos",
+      "price": 50000,
+      "type": "gasto"
+    }
+  ]
+}
